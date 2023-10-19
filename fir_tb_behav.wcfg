@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="fir_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="fir_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="9,664.532 ns"></ZoomStartTime>
+      <ZoomEndTime time="9,754.733 ns"></ZoomEndTime>
+      <Cursor1Time time="78,695.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="183"></NameColumnWidth>
+      <ValueColumnWidth column_width="78"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="60" />
+   <wvobject fp_name="/fir_tb/fir_DUT/araddr" type="array">
+      <obj_property name="ElementShortName">araddr[11:0]</obj_property>
+      <obj_property name="ObjectShortName">araddr[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/rvalid" type="logic">
+      <obj_property name="ElementShortName">rvalid</obj_property>
+      <obj_property name="ObjectShortName">rvalid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/rdata" type="array">
+      <obj_property name="ElementShortName">rdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/ss_tvalid" type="logic">
+      <obj_property name="ElementShortName">ss_tvalid</obj_property>
+      <obj_property name="ObjectShortName">ss_tvalid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/ss_tdata" type="array">
+      <obj_property name="ElementShortName">ss_tdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ss_tdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/ss_tlast" type="logic">
+      <obj_property name="ElementShortName">ss_tlast</obj_property>
+      <obj_property name="ObjectShortName">ss_tlast</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/ss_tready" type="logic">
+      <obj_property name="ElementShortName">ss_tready</obj_property>
+      <obj_property name="ObjectShortName">ss_tready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/sm_tready" type="logic">
+      <obj_property name="ElementShortName">sm_tready</obj_property>
+      <obj_property name="ObjectShortName">sm_tready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/sm_tvalid" type="logic">
+      <obj_property name="ElementShortName">sm_tvalid</obj_property>
+      <obj_property name="ObjectShortName">sm_tvalid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/sm_tdata" type="array">
+      <obj_property name="ElementShortName">sm_tdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">sm_tdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/sm_tlast" type="logic">
+      <obj_property name="ElementShortName">sm_tlast</obj_property>
+      <obj_property name="ObjectShortName">sm_tlast</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/tap_Di" type="array">
+      <obj_property name="ElementShortName">tap_Di[31:0]</obj_property>
+      <obj_property name="ObjectShortName">tap_Di[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/tap_A" type="array">
+      <obj_property name="ElementShortName">tap_A[11:0]</obj_property>
+      <obj_property name="ObjectShortName">tap_A[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/tap_Do" type="array">
+      <obj_property name="ElementShortName">tap_Do[31:0]</obj_property>
+      <obj_property name="ObjectShortName">tap_Do[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/data_WE" type="array">
+      <obj_property name="ElementShortName">data_WE[3:0]</obj_property>
+      <obj_property name="ObjectShortName">data_WE[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/data_EN" type="logic">
+      <obj_property name="ElementShortName">data_EN</obj_property>
+      <obj_property name="ObjectShortName">data_EN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/data_Di" type="array">
+      <obj_property name="ElementShortName">data_Di[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_Di[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/data_A" type="array">
+      <obj_property name="ElementShortName">data_A[11:0]</obj_property>
+      <obj_property name="ObjectShortName">data_A[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/data_Do" type="array">
+      <obj_property name="ElementShortName">data_Do[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_Do[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/axis_clk" type="logic">
+      <obj_property name="ElementShortName">axis_clk</obj_property>
+      <obj_property name="ObjectShortName">axis_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/axis_rst_n" type="logic">
+      <obj_property name="ElementShortName">axis_rst_n</obj_property>
+      <obj_property name="ObjectShortName">axis_rst_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/counter_w" type="array">
+      <obj_property name="ElementShortName">counter_w[5:0]</obj_property>
+      <obj_property name="ObjectShortName">counter_w[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/counter_r" type="array">
+      <obj_property name="ElementShortName">counter_r[5:0]</obj_property>
+      <obj_property name="ObjectShortName">counter_r[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/state_w" type="array">
+      <obj_property name="ElementShortName">state_w[2:0]</obj_property>
+      <obj_property name="ObjectShortName">state_w[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/state_r" type="array">
+      <obj_property name="ElementShortName">state_r[2:0]</obj_property>
+      <obj_property name="ObjectShortName">state_r[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/ss_tready_w" type="logic">
+      <obj_property name="ElementShortName">ss_tready_w</obj_property>
+      <obj_property name="ObjectShortName">ss_tready_w</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/ss_tready_r" type="logic">
+      <obj_property name="ElementShortName">ss_tready_r</obj_property>
+      <obj_property name="ObjectShortName">ss_tready_r</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/data_WE_w" type="array">
+      <obj_property name="ElementShortName">data_WE_w[3:0]</obj_property>
+      <obj_property name="ObjectShortName">data_WE_w[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/data_Di_w" type="array">
+      <obj_property name="ElementShortName">data_Di_w[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_Di_w[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/data_A_w" type="array">
+      <obj_property name="ElementShortName">data_A_w[11:0]</obj_property>
+      <obj_property name="ObjectShortName">data_A_w[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/inputcount_w" type="array">
+      <obj_property name="ElementShortName">inputcount_w[11:0]</obj_property>
+      <obj_property name="ObjectShortName">inputcount_w[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/inputcount_r" type="array">
+      <obj_property name="ElementShortName">inputcount_r[11:0]</obj_property>
+      <obj_property name="ObjectShortName">inputcount_r[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/cycleaddr_w" type="array">
+      <obj_property name="ElementShortName">cycleaddr_w[11:0]</obj_property>
+      <obj_property name="ObjectShortName">cycleaddr_w[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/cycleaddr_r" type="array">
+      <obj_property name="ElementShortName">cycleaddr_r[11:0]</obj_property>
+      <obj_property name="ObjectShortName">cycleaddr_r[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/acccccccccccccccccccccccc_w" type="array">
+      <obj_property name="ElementShortName">acccccccccccccccccccccccc_w[31:0]</obj_property>
+      <obj_property name="ObjectShortName">acccccccccccccccccccccccc_w[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/acccccccccccccccccccccccc_r" type="array">
+      <obj_property name="ElementShortName">acccccccccccccccccccccccc_r[31:0]</obj_property>
+      <obj_property name="ObjectShortName">acccccccccccccccccccccccc_r[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/data_length_w" type="array">
+      <obj_property name="ElementShortName">data_length_w[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_length_w[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/data_length_r" type="array">
+      <obj_property name="ElementShortName">data_length_r[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_length_r[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/arvalid_w" type="logic">
+      <obj_property name="ElementShortName">arvalid_w</obj_property>
+      <obj_property name="ObjectShortName">arvalid_w</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/arvalid_r" type="logic">
+      <obj_property name="ElementShortName">arvalid_r</obj_property>
+      <obj_property name="ObjectShortName">arvalid_r</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/wready_w" type="logic">
+      <obj_property name="ElementShortName">wready_w</obj_property>
+      <obj_property name="ObjectShortName">wready_w</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/awready_w" type="logic">
+      <obj_property name="ElementShortName">awready_w</obj_property>
+      <obj_property name="ObjectShortName">awready_w</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/tap_WE_w" type="array">
+      <obj_property name="ElementShortName">tap_WE_w[3:0]</obj_property>
+      <obj_property name="ObjectShortName">tap_WE_w[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/tap_EN_w" type="logic">
+      <obj_property name="ElementShortName">tap_EN_w</obj_property>
+      <obj_property name="ObjectShortName">tap_EN_w</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/tap_A_w" type="array">
+      <obj_property name="ElementShortName">tap_A_w[11:0]</obj_property>
+      <obj_property name="ObjectShortName">tap_A_w[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/tap_Di_w" type="array">
+      <obj_property name="ElementShortName">tap_Di_w[31:0]</obj_property>
+      <obj_property name="ObjectShortName">tap_Di_w[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/tapcont_w" type="array">
+      <obj_property name="ElementShortName">tapcont_w[11:0]</obj_property>
+      <obj_property name="ObjectShortName">tapcont_w[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/tapcont_r" type="array">
+      <obj_property name="ElementShortName">tapcont_r[11:0]</obj_property>
+      <obj_property name="ObjectShortName">tapcont_r[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/arready_w" type="logic">
+      <obj_property name="ElementShortName">arready_w</obj_property>
+      <obj_property name="ObjectShortName">arready_w</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/rvalid_w" type="logic">
+      <obj_property name="ElementShortName">rvalid_w</obj_property>
+      <obj_property name="ObjectShortName">rvalid_w</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/rdata_w" type="array">
+      <obj_property name="ElementShortName">rdata_w[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rdata_w[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/pADDR_WIDTH" type="array">
+      <obj_property name="ElementShortName">pADDR_WIDTH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pADDR_WIDTH[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/pDATA_WIDTH" type="array">
+      <obj_property name="ElementShortName">pDATA_WIDTH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pDATA_WIDTH[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/Tape_Num" type="array">
+      <obj_property name="ElementShortName">Tape_Num[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Tape_Num[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/idle" type="array">
+      <obj_property name="ElementShortName">idle[2:0]</obj_property>
+      <obj_property name="ObjectShortName">idle[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/zero" type="array">
+      <obj_property name="ElementShortName">zero[2:0]</obj_property>
+      <obj_property name="ObjectShortName">zero[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/await" type="array">
+      <obj_property name="ElementShortName">await[2:0]</obj_property>
+      <obj_property name="ObjectShortName">await[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/write" type="array">
+      <obj_property name="ElementShortName">write[2:0]</obj_property>
+      <obj_property name="ObjectShortName">write[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/mac" type="array">
+      <obj_property name="ElementShortName">mac[2:0]</obj_property>
+      <obj_property name="ObjectShortName">mac[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fir_tb/fir_DUT/out_yn" type="array">
+      <obj_property name="ElementShortName">out_yn[2:0]</obj_property>
+      <obj_property name="ObjectShortName">out_yn[2:0]</obj_property>
+   </wvobject>
+</wave_config>
